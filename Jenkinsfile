@@ -5,7 +5,7 @@ stages{
  stage('stage1')
  {
 
-steps { sh 'echo "this is  stage1 of master"'  }
+steps { sh 'echo "this ias  stage1 of master"'  }
 
 }
 
